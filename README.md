@@ -24,9 +24,8 @@ This project transforms raw library data into actionable business intelligence. 
   * **KPI Cards**: Real-time tracking of core library metrics.
 
 ## 📂 Repository Structure
-* `Library_Books_Analysis.pbix`: The final Power BI Desktop file.
 * `Data/`: Folder containing the raw Excel data source.
-* `Screenshots/`: High-resolution images of the dashboard.
+* `Dashboard/`: High-resolution images of the dashboard and Library_Books_Analysis.pbix.
 
 ## 🚀 How to Use
 1. Download the `.pbix` file.
